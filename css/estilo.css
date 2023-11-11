@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    text-align: center;
+    margin: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+    border: 1px solid red;
+    
+}
+
+.header{
+    width: 100%;
+}
+
+
+

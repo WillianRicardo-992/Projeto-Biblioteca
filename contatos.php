@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/estilo.css">
     <title>Contatos</title>
 </head>
 
@@ -31,11 +32,6 @@
     <li>Fundamentos da Linguagem Python</li>
     <li>Fundamentos da Linguagem Javascript</li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-
 
     <?php
     include("includes/footer.php");

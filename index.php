@@ -15,12 +15,13 @@
     <hr><br>
     <p>Escolha uma das opções abaixo</p>
     <div class="button">
-        <button><a href="pesquisar-livro">Pesquisar Livro</a></button>
-        <button><a href="reservar-mesa">Reservar mesa</a></button>
-        <button><a href="acesso.php">Acesso a computadores</a></button>
+        <button><a href="pesquisar-livro.php">Pesquisar Livro</a></button>
+        <button><a href="reservar-mesa.php">Reservar mesa</a></button>
+        <button><a href="acesso-computadores.php">Acesso a Computadores</a></button>
 
     </div>
 <br><br>
+
 <div class="noticias">
 
     <h3>Últimos livros adicionados</h3>
@@ -29,9 +30,6 @@
     <h3>Canto da leitura</h3>
     <h3>Outros</h3>
 </div>
-
-
-    <hr>
    <?php
    include("includes/footer.php");
    ?>

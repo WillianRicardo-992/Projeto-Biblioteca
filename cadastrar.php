@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="estilo.css">
+    <link rel="stylesheet" href="css/estilo.css">
     <title>Cadastro</title>
 </head>
 
@@ -19,7 +19,7 @@
         <input type="text" name="nome" placeholder="nome">
         <input type="email" name="email" placeholder="e-mail">
         <input type="password" name="senha" placeholder="senha">
-        <input type="date" name="datan">
+        <input type="date" name="data">
         <input type="radio" name="professor">Professor
         <input type="radio" name="professor">Aluno
     </div>

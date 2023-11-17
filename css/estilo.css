@@ -4,23 +4,111 @@
 }
 body{
     text-align: center;
-    margin: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: cornflowerblue;
 }
 
-header{
-    width: 100%;
+nav button{
+    padding: 10px;
 }
 
+.header{
+    width: 100%;
+    text-align: center;
+    background-color: #512c96;
+    padding: 2%;
+    color: white;
+}
+
+.button button, p, h3{
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
  
 footer{
-    
+    width: 100%;
     text-align: center;
     background-color: rgb(168, 205, 22);
-    margin: 0;
     padding: 2%;
 }
+
+.pesquisa{
+    padding: 30px;
+}
+
+.bt{
+    margin-bottom: 20px;
+    
+}
+
+.pesquisa input{
+    padding: 20px;
+}
+
+.login{
+    padding: 25px;
+    margin: 8%;
+    background-color: brown;
+}
+
+.login h1{
+    padding: 20px;
+    color: white;
+}
+
+.login input{
+    padding: 10px;
+    border-radius: 15px;
+    height: 20px;
+    margin: 3px;
+
+}
+
+.login button{
+    padding: 10px;
+    background-color: #2c8696;
+    color: white;
+    margin: 10px;
+    
+}
+
+.dados input{
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    
+}
+
+.comp button{
+    padding: 15px;
+    border-radius: 30px;
+    background-color: rgb(34, 187, 192);
+    text-decoration: none;
+   
+}
+
+.comp li{
+    
+    padding: 15px;
+}
+
+.horario, .horario select{
+    padding: 20px;
+}
+
+.op{
+    margin-bottom: 17%;
+    padding: 15px;
+}
+
+.op button{
+    padding: 12px;
+}
+
+
+
+
 
 
 

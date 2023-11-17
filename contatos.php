@@ -12,6 +12,7 @@
     <?php
     include("includes/header.php");
     ?>
+    <br>
     <h1>Contatos</h1>
 
 <p>Email: bibliotecaescolar@email.com</p>
@@ -32,6 +33,7 @@
     <li>Fundamentos da Linguagem Python</li>
     <li>Fundamentos da Linguagem Javascript</li>
 </ul>
+<br>
 
     <?php
     include("includes/footer.php");

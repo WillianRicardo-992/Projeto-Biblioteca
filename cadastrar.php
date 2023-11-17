@@ -12,14 +12,15 @@
     <?php
     include("includes/header.php");
     ?>
-
+    <br>
     <h1>Cadastro</h1>
+    <br>
     <div class="dados">
 
-        <input type="text" name="nome" placeholder="nome">
-        <input type="email" name="email" placeholder="e-mail">
-        <input type="password" name="senha" placeholder="senha">
-        <input type="date" name="data">
+        <input type="text" name="nome" placeholder="nome"><br>
+        <input type="email" name="email" placeholder="e-mail"><br>
+        <input type="password" name="senha" placeholder="senha"><br>
+        <input type="date" name="data"><br>
         <input type="radio" name="professor">Professor
         <input type="radio" name="professor">Aluno
     </div>

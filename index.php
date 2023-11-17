@@ -12,7 +12,7 @@
     <?php
     include("includes/header.php");
     ?>
-    <hr><br>
+    <br>
     <p>Escolha uma das opções abaixo</p>
     <div class="button">
         <button><a href="pesquisar-livro.php">Pesquisar Livro</a></button>
@@ -26,9 +26,8 @@
 
     <h3>Últimos livros adicionados</h3>
     <h3>Mais Lidos</h3>
-    <h3>Novidades</h3>
-    <h3>Canto da leitura</h3>
-    <h3>Outros</h3>
+    <h3>Novidades em breve</h3>
+    
 </div>
    <?php
    include("includes/footer.php");
